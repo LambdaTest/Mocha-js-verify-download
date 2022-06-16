@@ -31,11 +31,11 @@ describe("Mocha Todo Test " + caps.browserName, function() {
         driver.get("'https://chromedriver.storage.googleapis.com/index.html?path=79.0.3945.36/'").then(function() {
             driver.findElement(webdriver.By.xpath('/html/body/table/tbody/tr[]/td[2]/a')).click().then(function(){  
                 if (driver.executeScript("lambda-file-exists=chromedriver_win32.zip")){
-                    driver.executeScript("lambda-status=passed");
+                   console.log("Download successful");
                 }
                 else
                 {
-                    driver.executeScript("lambda-status=failed");
+                   console.log("Download failed");
                 } 
             });
         });
