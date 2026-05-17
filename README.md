@@ -7,15 +7,19 @@
 
 ## Getting Started
 
-TestMu AI (Formerly LambdaTest) is the world's first fully autonomous Agentic AI Quality Engineering Platform. It allows users to run both manual and automated testing of web and mobile apps across 3000+ different browsers, operating systems, and real device combinations.
+[TestMu AI](https://www.testmuai.com/) (Formerly LambdaTest) is the world's first full-stack AI Agentic Quality Engineering platform that empowers teams to test intelligently, smarter, and ship faster. Built for scale, it offers a full-stack testing cloud with 10K+ real devices and 3,000+ browsers. With AI-native test management, MCP servers, and agent-based automation, TestMu AI supports Selenium, Appium, Playwright, and all major frameworks.
 
-If you want to verify file download in automation test in Mocha.js on TestMu AI (Formerly LambdaTest), you can follow the below steps. You can refer to sample test repo [here](https://github.com/LambdaTest/Mocha-Selenium-sample).
+With TestMu AI (Formerly LambdaTest), you can run Mocha Verify Download Tests across real browsers and operating systems.
 
 - [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
 
-# Steps:
+### Prerequisites
 
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
+# Steps:
 
 ## Step 1: Add test case
 
