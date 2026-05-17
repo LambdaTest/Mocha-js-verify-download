@@ -7,11 +7,11 @@
 
 ## Getting Started
 
-TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) is the world's first fully autonomous Agentic AI Quality Engineering Platform. It allows users to run both manual and automated testing of web and mobile apps across 3000+ different browsers, operating systems, and real device combinations.
+TestMu AI (Formerly LambdaTest) is the world's first fully autonomous Agentic AI Quality Engineering Platform. It allows users to run both manual and automated testing of web and mobile apps across 3000+ different browsers, operating systems, and real device combinations.
 
-If you want to verify file download in automation test in Mocha.js on TestMu AI (Formerly TestMu AI (Formerly LambdaTest)), you can follow the below steps. You can refer to sample test repo [here](https://github.com/LambdaTest/Mocha-Selenium-sample).
+If you want to verify file download in automation test in Mocha.js on TestMu AI (Formerly LambdaTest), you can follow the below steps. You can refer to sample test repo [here](https://github.com/LambdaTest/Mocha-Selenium-sample).
 
-- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly TestMu AI (Formerly LambdaTest)).
+- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
 
 # Steps:
@@ -43,15 +43,15 @@ it("can find search results", function(done) {
 npm run single
 ```
 
-## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Community
+## TestMu AI (Formerly LambdaTest) Community
 
 Connect with testers and developers in the [TestMu AI Community](https://community.testmuai.com/). Ask questions, share what you are building, and discuss best practices in test automation and DevOps.
 
-## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Certifications
+## TestMu AI (Formerly LambdaTest) Certifications
 
 Earn free [TestMu AI Certifications](https://www.testmuai.com/certifications/) for testers, developers, and QA engineers. Validate your skills in Selenium, Cypress, Playwright, Appium, Espresso and more. Industry-recognized, shareable on LinkedIn, and built by practitioners, not marketers.
 
-## Learning Resources by TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
+## Learning Resources by TestMu AI (Formerly LambdaTest)
 
 Learn modern testing through tutorials, guides, videos, and weekly updates:
 
