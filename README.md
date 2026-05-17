@@ -19,6 +19,11 @@ With TestMu AI (Formerly LambdaTest), you can run Mocha Verify Download Tests ac
 - Node.js and npm (latest stable)
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 # Steps:
 
 ## Step 1: Add test case
